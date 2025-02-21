@@ -50,13 +50,14 @@ A **JavaFX-powered** chatbot inspired by **Viktor from *Arcane***, featuring:
 ---
 
 
-## 📊 github stats:
+<!---## 📊 github stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rae2480&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 ---
+-->
 
 ## 🤝 connect with me: 
 
