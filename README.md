@@ -9,16 +9,6 @@ i’m passionate about merging **technology** and **creativity** (whether it’s
 
 ---
 
-## 🔥 recently:
-
-- 🎓 studying **Computer Science** and exploring **AI, ML, Software Enginerring and Algorithms**
-- 💻 awaiting my web development certification
-- ⚙ building a JavaFX chatbot (inspired by Viktor from *Arcane*)
-- 🖌️ experimenting with integrating personal artworks with personal coding projects
-- 🎧 playing tunes with my band
-
----
-
 ## 👩‍💻 tech stack:
 
 ### **Frontend**  
@@ -35,6 +25,16 @@ i’m passionate about merging **technology** and **creativity** (whether it’s
 
 ### **DevOps & Tools**  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+
+---
+
+## 🔥 recently:
+
+- 🎓 studying **Computer Science** and exploring **AI, ML, Software Enginerring and Algorithms**
+- 💻 awaiting my web development certification
+- ⚙ building a JavaFX chatbot (inspired by Viktor from *Arcane*)
+- 🖌️ experimenting with integrating personal artworks with personal coding projects
+- 🎧 playing tunes with my band
 
 ---
 
