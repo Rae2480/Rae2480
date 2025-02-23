@@ -1,4 +1,4 @@
-<img src="https://private-user-images.githubusercontent.com/136453294/415728717-690f93f3-3cfb-4b6e-ac64-b8c550bc5b87.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAyNTM4OTksIm5iZiI6MTc0MDI1MzU5OSwicGF0aCI6Ii8xMzY0NTMyOTQvNDE1NzI4NzE3LTY5MGY5M2YzLTNjZmItNGI2ZS1hYzY0LWI4YzU1MGJjNWI4Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyMlQxOTQ2MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02OTY5MDBmNmEwY2ExYjdmODllY2NiZWJjODgzNjhjMzhhOWRkYTZiZDQ5M2I1ZDZiZGYzOTA0MmRmY2ZkZjM3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lmJRwMyJlF_qBN0jo9c7V3-n52PK8K1lefbJyKBjsdk" alt="Banner" width="100%">
+<img src="https://github.com/Rae2480/Rae2480/blob/main/Raeeda%20Ibnat%20Hossain.png?raw=true" alt="Banner" width="100%">
 
 # ✨ heyyy, i'm Raeeda! ✨
 ### 🖥️ CS student | 🎨 fullstack developer | 🎶 cat afficianado 
