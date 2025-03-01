@@ -21,10 +21,13 @@ i’m passionate about merging **technology** and **creativity** (whether it’s
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ### **Creative Tools**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 
 ### **DevOps & Tools**  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  ![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=atlassian&logoColor=white) ![Google Chrome Developer Tools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+
 
 ---
 
@@ -32,7 +35,8 @@ i’m passionate about merging **technology** and **creativity** (whether it’s
 
 - 🎓 studying **Computer Science** and exploring **AI, ML, Software Enginerring and Algorithms**
 - 💻 awaiting my web development certification
-- ⚙ building a JavaFX chatbot (inspired by Viktor from *Arcane*)
+- 💍 creating a contact database for wedding planners
+- ⚙ built a JavaFX chatbot (inspired by Viktor from *Arcane*)
 - 🖌️ experimenting with integrating personal artworks with personal coding projects
 - 🎧 playing tunes with my band
 
@@ -61,7 +65,7 @@ A **JavaFX-powered** chatbot inspired by **Viktor from *Arcane***, featuring:
 
 ## 🤝 connect with me: 
 
-<!--- 🌐 **[Personal Website](https://yourwebsite.com/)**  -->
+- 🌐 **[Personal Website](https://rae2480.github.io/raeeda-portfolio/)** 
 - 💼 **[LinkedIn](www.linkedin.com/in/raeeda-hossain)**  
 - 📩 **[Email](mailto:raeedareu@gmail.com)**  
 
