@@ -33,7 +33,7 @@ i’m passionate about merging **technology** and **creativity** (whether it’s
 
 ## 🔥 recently:
 
-- 🎓 studying **Computer Science** and exploring **AI, ML, Software Enginerring and Algorithms**
+- 🎓 studying **Computer Science** and exploring **AI, ML, Software Engineering and Algorithms**
 - 💻 awaiting my web development certification
 - 💍 creating a contact database for wedding planners
 - ⚙ built a JavaFX chatbot (inspired by Viktor from *Arcane*)
