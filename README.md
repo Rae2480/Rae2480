@@ -1,4 +1,4 @@
-<img src="https://github.com/Rae2480/Rae2480/blob/main/Raeeda%20Ibnat%20Hossain%20.png?raw=true" alt="Banner" width="100%">
+<img src="https://github.com/Rae2480/Rae2480/blob/main/Raeeda%20Ibnat%20Hossain.png?raw=true" alt="Banner" width="100%">
 
 # ✨ heyyy, i'm Raeeda! ✨
 ### 🖥️ CS student | 🎨 fullstack developer | 🎶 cat aficionado 
